@@ -1,6 +1,6 @@
 {
   "name": "json-chalkify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["javascript", "json", "chalk", "formatter", "JSON formatter", "Chalk JSON"],
   "author": "Michael Gibbons",
   "license": "MIT",
   "dependencies": {
